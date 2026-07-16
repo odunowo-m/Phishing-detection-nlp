@@ -1,5 +1,3 @@
-Phishing-detection-nlp
-Machine learning phishing email detection system using NLP and Python
 Phishing Detection and Response System Using NLP
 
  Overview
