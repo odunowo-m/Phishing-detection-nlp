@@ -40,3 +40,17 @@ How to Run
 Results
 The system successfully classifies phishing emails with high accuracy and 
 generates automated response recommendations to guide user decision making
+
+Datasets
+
+The following datasets are required to run this project:
+
+1. Phishing Email Dataset** — Download from Kaggle:
+   https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+   
+2. SMS Spam Collection** — Download from Kaggle:
+   https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+After downloading, upload both CSV files to your Google Colab 
+environment before running the notebook.
+
